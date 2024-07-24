@@ -4,6 +4,10 @@ namespace ToyRobotConsoleApp
 {
     class Program
     {
+        /// <summary>
+        /// Main function entry poing
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             bool keepSimulation = true;
